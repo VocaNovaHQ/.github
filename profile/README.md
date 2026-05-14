@@ -6,12 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="http://vocanova.online/">
-    <img src="https://img.shields.io/badge/🌐_Visit_vocanova.online-4F46E5?style=for-the-badge&logoColor=white" alt="vocanova.online" />
-  </a>
-</p>
-
-<p align="center">
   👉 <a href="http://vocanova.online/"><b>vocanova.online</b></a> 에서 랜딩 페이지와 다운로드 정보를 확인하세요.
 </p>
 
@@ -19,7 +13,7 @@
 
 ## 🌱 VocaNova가 풀려는 문제
 
-공식 문서를 읽다가, 웹서핑을 하다가, PDF 파일을 읽다가, macOS에서 코드를 작성하다가 만나는 **모르는 단어**.
+공식 문서를 읽다가, 웹서핑을 하다가, PDF 파일을 읽다가, 코드를 작성하다가, 카톡을 하다가 만나는 **모르는 단어**.
 사전 앱을 열고, 검색하고, 단어장에 옮겨 적는 — 그 번거로움 때문에 대부분의 단어는 그대로 흘려보내집니다.
 
 **VocaNova**는 이 번거로움을 0에 가깝게 만듭니다.
@@ -34,11 +28,11 @@
 
 ## 🧩 제품 구성
 
-| Client | 한 줄 요약 | Repository |
-| --- | --- | --- |
-| 🌐 **Chrome Extension** | 어떤 웹페이지에서든 드래그 / 더블클릭으로 사전 팝업 + 단어장 저장 | [`voca-extension`](https://github.com/VocaNovaHQ/voca-extension) |
-| 🖥️ **macOS App** | 시스템 전역 단축키(⌘⇧F)로 모든 앱에서 사전 호출 — 메뉴바 상주 | [`VocaNovaApp`](https://github.com/VocaNovaHQ/VocaNovaApp) |
-| 📱 **iOS App** | 모아둔 단어를 SRS로 복습 · 학습 통계 · 복습 알림 | [`VocaNova`](https://github.com/VocaNovaHQ/VocaNova) |
+| Client                  | 한 줄 요약                                                        | Repository                                                  |
+| ----------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- |
+| 🌐 **Chrome Extension** | 어떤 웹페이지에서든 드래그 / 더블클릭으로 사전 팝업 + 단어장 저장 | [`voca-extension`](https://github.com/VocaNovaHQ/extension) |
+| 🖥️ **macOS App**        | 시스템 전역 단축키(⌘⇧F)로 모든 앱에서 사전 호출 — 메뉴바 상주     | [`VocaNovaApp`](https://github.com/VocaNovaHQ/macos)        |
+| 📱 **Mobile App**       | 모아둔 단어를 SRS로 복습 · 학습 통계 · 복습 알림                  | [`VocaNova`](https://github.com/VocaNovaHQ/mobile)          |
 
 ---
 
