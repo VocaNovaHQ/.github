@@ -1,4 +1,4 @@
-<h1 align="">Welcome to VocaNova 👋</h1>
+<h1 align="center">Welcome to VocaNova 👋</h1>
 
 <p align="center">
   <b>읽다가 만난 영어 단어를, 한 번의 동작으로 모으고 SRS로 복습하세요.</b><br/>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  👉 <a href="http://vocanova.online/"><b>vocanova.online</b></a> 에서 랜딩 페이지와 다운로드 정보를 확인하세요.
+  👉 <a href="http://vocanova.online/"><b>vocanova.online</b></a> 에서 사용방법과 다운로드 정보를 확인하세요.
 </p>
 
 ---
