@@ -28,11 +28,11 @@
 
 ## 🧩 제품 구성
 
-| Client                  | 한 줄 요약                                                        | Repository                                                  |
-| ----------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- |
-| 🌐 **Chrome Extension** | 어떤 웹페이지에서든 드래그 / 더블클릭으로 사전 팝업 + 단어장 저장 | [`voca-extension`](https://github.com/VocaNovaHQ/extension) |
-| 🖥️ **macOS App**        | 시스템 전역 단축키(⌘⇧F)로 모든 앱에서 사전 호출 — 메뉴바 상주     | [`VocaNovaApp`](https://github.com/VocaNovaHQ/macos)        |
-| 📱 **Mobile App**       | 모아둔 단어를 SRS로 복습 · 학습 통계 · 복습 알림                  | [`VocaNova`](https://github.com/VocaNovaHQ/mobile)          |
+| Client                  | 한 줄 요약                                                        | Repository                                             |
+| ----------------------- | ----------------------------------------------------------------- | ------------------------------------------------------ |
+| 🌐 **Chrome Extension** | 어떤 웹페이지에서든 드래그 / 더블클릭으로 사전 팝업 + 단어장 저장 | [`extension`](https://github.com/VocaNovaHQ/extension) |
+| 🖥️ **macOS App**        | 시스템 전역 단축키(⌘⇧F)로 모든 앱에서 사전 호출 — 메뉴바 상주     | [`macos`](https://github.com/VocaNovaHQ/macos)         |
+| 📱 **Mobile App**       | 모아둔 단어를 SRS로 복습 · 학습 통계 · 복습 알림                  | [`mobile`](https://github.com/VocaNovaHQ/mobile)       |
 
 ---
 
