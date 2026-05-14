@@ -5,14 +5,24 @@
   브라우저 · macOS · iOS — 어디서 모았든 한 곳에서 학습합니다.
 </p>
 
+<p align="center">
+  <a href="http://vocanova.online/">
+    <img src="https://img.shields.io/badge/🌐_Visit_vocanova.online-4F46E5?style=for-the-badge&logoColor=white" alt="vocanova.online" />
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="http://vocanova.online/"><b>vocanova.online</b></a> 에서 랜딩 페이지와 다운로드 정보를 확인하세요.
+</p>
+
 ---
 
 ## 🌱 VocaNova가 풀려는 문제
 
-영어 원서를 읽다가, 논문을 보다가, 영상 자막을 보다가 만나는 **모르는 단어**.
-사전 앱을 열고, 검색하고, 단어장에 옮겨 적는 — 그 마찰 때문에 대부분의 단어는 그대로 흘려보내집니다.
+공식 문서를 읽다가, 웹서핑을 하다가, PDF 파일을 읽다가, macOS에서 코드를 작성하다가 만나는 **모르는 단어**.
+사전 앱을 열고, 검색하고, 단어장에 옮겨 적는 — 그 번거로움 때문에 대부분의 단어는 그대로 흘려보내집니다.
 
-**VocaNova**는 이 마찰을 0에 가깝게 만듭니다.
+**VocaNova**는 이 번거로움을 0에 가깝게 만듭니다.
 
 - 웹에서는 **드래그 한 번**,
 - macOS의 다른 앱에서는 **⌘⇧F 한 번**,
